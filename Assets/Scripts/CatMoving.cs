@@ -1,18 +1,23 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class CatMoving : MonoBehaviour
 {
-    // Start is called before the first frame update
+    NavMeshAgent nav;
+    [SerializeField] Transform[] target;
+
     void Start()
     {
-        
+        nav = GetComponent<NavMeshAgent>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetMouseButtonDown(0))
+            nav.SetDestination(target[0].position);
     }
+
+
 }
