@@ -8,42 +8,42 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Head1
-    second: {fileID: 2100000, guid: cefaba319c22b0b489ae339ff6f3b7ea, type: 2}
+    second: {fileID: 2100000, guid: 986966361e7949c45ad501b5da7f6124, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Iris
-    second: {fileID: 2100000, guid: 445fc6f87c20f914cb34637e19482901, type: 2}
+    second: {fileID: 2100000, guid: e0bff585f41a5ea4bbfb9ea9f5e447b1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Lens
-    second: {fileID: 2100000, guid: 7110ac4047dc0af4e9013646e85b8120, type: 2}
+    second: {fileID: 2100000, guid: 388bae456a69e974c83058238895b0db, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material #21
-    second: {fileID: 2100000, guid: d5bc575551411e4418c595e34ac98e31, type: 2}
+    second: {fileID: 2100000, guid: 78c43ee621220ad49a5962435169a8fe, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material #22
-    second: {fileID: 2100000, guid: e5f069bdfb8656648b4413c9785c4dec, type: 2}
+    second: {fileID: 2100000, guid: 1dcd04907af5fb645aa394b9545341c5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Pupil
-    second: {fileID: 2100000, guid: 1ef8465fae8835140a0f895097bfbd39, type: 2}
+    second: {fileID: 2100000, guid: 5ff0b565dce1fca4c98c17baa4a1e654, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: RKK_Joint
-    second: {fileID: 2100000, guid: 2a08b274cfb15a849a097fc119dd2dd0, type: 2}
+    second: {fileID: 2100000, guid: b1171a7aa0822b4479d52d4c60319f0f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: sclera
-    second: {fileID: 2100000, guid: 98817113fed03ce48b2ca27efeb39f8e, type: 2}
+    second: {fileID: 2100000, guid: d90630718c767f8488633d41fe30a09d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -64,7 +64,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -133,13 +133,13 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 2
+  animationType: 3
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
