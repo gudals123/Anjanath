@@ -36,8 +36,8 @@ ModelImporter:
       name: Noesis Frames
       takeName: Noesis Frames
       internalID: 2207850806306222022
-      firstFrame: 360
-      lastFrame: 577
+      firstFrame: 0
+      lastFrame: 2406
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
